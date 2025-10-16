@@ -11,3 +11,5 @@ It’s all based on a new method I created using OpenCL, NumPy, etc.
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’ve already trained a small working model on my **RX 5700** — it works!  
 Still needs optimization, but it proves that AMD can run AI *without NVIDIA’s stack.*
+
+
